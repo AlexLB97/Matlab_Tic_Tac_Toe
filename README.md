@@ -9,3 +9,4 @@ for the user when the computer is playing in hard mode.
 
 If the user chooses to simulate matches between two computer players, the level of each CPU can be picked individually. 
 
+![alt text]
